@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  line-height: 2;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: blue;
+}
+h1 {
+  color: aliceblue;
+  padding-top: 100px;
+  font-family: "Merriweather";
+  font-weight: lighter;
+}
+hr {
+  border: none;
+  border-bottom: 10px dotted #5e6a72;
+  width: 10%;
+  margin: 80px auto 80px auto;
+}
+
+h2 {
+  font-family: "Montserrat";
+  color: #51a5a8;
+}
+h3 {
+  color: #5e6a72;
+}
+
+p {
+  color: rgb(64, 58, 50);
+  width: 80%;
+  margin: 30px auto 30px auto;
+}
+.first-page {
+  background-color: #97d2ec;
+  padding-bottom: 220px;
+  padding-top: 24px;
+}
+.Links {
+  background-color: #89cffd;
+  padding-top: 50px;
+  padding-bottom: 24px;
+}
+.middle-content1 {
+  background-color: ;
+}
+.moon-flag {
+  height: 100px;
+  width: 100px;
+  float: left;
+  margin-right: 30px;
+}
+.moon-flag2 {
+  height: 100px;
+  width: 100px;
+  float: right;
+  margin-left: 30px;
+}
+.moon-flag3 {
+  height: 100px;
+  width: 100px;
+  float: left;
+  margin-right: 30px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Merriweather", serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.info-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.first-moon {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.first-para {
+  width: 30%;
+  margin: 0 auto 0 auto;
+  color: rgb(54, 49, 49);
+  font-size: 20px;
+}
+
+.second-moon {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+.set-go {
+  color: white;
+}
+
+.star-one {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  bottom: 0px;
+  left: 30px;
+}
+
+.star-two {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  bottom: 0px;
+  right: 30px;
+}
+.weird-eye {
+  height: 200px;
+  width: 200px;
+  padding-bottom: 40px;
+}
